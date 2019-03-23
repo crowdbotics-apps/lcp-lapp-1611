@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT lcp_lapp_1611.wsgi:application
